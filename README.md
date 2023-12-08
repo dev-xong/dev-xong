@@ -13,7 +13,7 @@
 ![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 
-
+![codexong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <!--
 **codexong/codexong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
