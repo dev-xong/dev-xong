@@ -16,6 +16,7 @@
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 
 ![codexong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codexong&layout=Demo&theme=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codexong)](https://solved.ac/codexong/)
 # :mailbox_with_mail: Contacts
