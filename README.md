@@ -16,7 +16,6 @@
 ![codexong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/xongyuna/)
-출처: https://soo-vely-dev.tistory.com/159#google_vignette [soo_vely의 개발로그:티스토리]
 
 <!--
 **codexong/codexong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
