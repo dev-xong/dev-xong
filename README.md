@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodexong&count_bg=%23A4C1E5&title_bg=%234D6ACD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![java](https://img.shields.io/badge/java-#1E8CBE.svg?&style=for-the-badge&logo=java&logoColor=White)
+![Java](https://img.shields.io/badge/java-#1E8CBE.svg?&style=for-the-badge&logo=java&logoColor=White)
 출처: https://soo-vely-dev.tistory.com/159#google_vignette [soo_vely의 개발로그:티스토리]
 
 <!--
