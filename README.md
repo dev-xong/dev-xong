@@ -17,7 +17,7 @@
 
 ![codexong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codexong)]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codexong)](https://solved.ac/codexong/)
 
 # :mailbox_with_mail: Contacts
 ![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xong-coding.tistory.com/)
