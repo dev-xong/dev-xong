@@ -10,6 +10,10 @@
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![macos](https://img.shields.io/badge/macos-000000.svg?&style=for-the-badge&logo=macos&logoColor=white)
+![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
+
+
 
 <!--
 **codexong/codexong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
