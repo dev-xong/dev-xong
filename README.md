@@ -7,6 +7,9 @@
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![macos](https://img.shields.io/badge/macos-000000.svg?&style=for-the-badge&logo=macos&logoColor=white)
 
 <!--
 **codexong/codexong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
