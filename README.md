@@ -20,5 +20,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codexong)](http://solved.ac/codexong)
 # :mailbox_with_mail: Contacts
-![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xong-coding.tistory.com/)
+![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://xong-coding.tistory.com)
 ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:xongyuna@naver.com)
