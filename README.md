@@ -15,8 +15,8 @@
 ![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 
-![codexong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codexong&layout=compact&theme=dark)
+![dev-xong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xong&layout=compact&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codexong)](http://solved.ac/codexong)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_xong)](https://solved.ac/dev_xong)
