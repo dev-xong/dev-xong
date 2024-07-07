@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codexong&layout=compact&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=codexong)](http://solved.ac/codexong)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dev-xong)](http://solved.ac/dev-xong)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dev_xong)](http://solved.ac/dev_xong)
 # :mailbox_with_mail: Contacts
 ![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://xong-coding.tistory.com)
 ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:xongyuna@naver.com)
