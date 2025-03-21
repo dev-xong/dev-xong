@@ -13,7 +13,10 @@
 <img src="https://img.shields.io/badge/macos-000000.svg?&style=for-the-badge&logo=macos&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
-![dev-xong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xong&layout=compact&theme=dark)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dev_xong)](https://solved.ac/dev_xong)
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-xong&show_icons=true&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xong&layout=compact&color=00000000" />
+</div>
+<div align="center">
+  <a href="https://solved.ac/dev_xong"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=dev_xong" /></a>
+</div>
