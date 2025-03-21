@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=FFD8D8&height=200&section=header&text=Welcome+to+Dev-xong+GitHub!👋&fontSize=50&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=C4DEFF&height=200&section=header&text=Welcome+to+Dev-xong+GitHub!👋&fontSize=50&fontColor=FFFFFF" />
 
 # 💪Skills
 
@@ -17,5 +17,4 @@
 
 ![dev-xong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xong&layout=compact&theme=dark)
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_xong)](https://solved.ac/dev_xong)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dev_xong)](https://solved.ac/dev_xong)
