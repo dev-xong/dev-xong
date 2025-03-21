@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=C4DEFF&height=200&section=header&text=Welcome+to+Dev-xong+GitHub!👋&fontSize=50&fontColor=FFFFFF" />
-
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=C4DEFF&height=200&section=header&text=Dev-xong👋&fontSize=40&fontColor=FFFFFF&fontAlign=50&stroke=E0E0E0&textBg=false" />
+  
 # 💪Skills
 
 ### Platforms & Languages
