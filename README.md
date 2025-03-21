@@ -2,11 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=C4DEFF&height=200&section=header&text=Dev-xong👋&fontSize=40&fontColor=FFFFFF&fontAlign=50&stroke=E0E0E0&textBg=false" />
 </div>
 
-### Xongyuna!
-
-- #### 👩🏻‍💻 Web Developer
-- #### 📍 Busan, South Korea
-- #### Starting from March 2024
+<div align="center">
+      <h3>Xongyuna</h3>
+<p align="center">
+  <span>👩🏻‍💻 Web Developer</span> |
+  <span>📍 Busan, South Korea</span> |
+  <span> 🔥 Starting from March 2024</span>
+</p>
+</div>
 
 <div align="left">
       <h2>Main Skills</h2>
