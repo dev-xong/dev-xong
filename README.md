@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-xong&count_bg=%2399CCFF&title_bg=%234D94FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=C4DEFF&height=200&section=header&text=Dev-xong👋&fontSize=40&fontColor=FFFFFF&fontAlign=50&stroke=E0E0E0&textBg=false" />
 </div>
