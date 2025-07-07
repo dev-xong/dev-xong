@@ -11,20 +11,22 @@
 </p>
 </div>
 
-<div align="left">
-      <h2>Main Skills</h2>
+<div align="center">
+      <h2>Main Skills & Frameworks / Runtime</h2>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px" margin-right:5px;/>
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/javascript.png" alt="javascript" height="50px"/>
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
+          <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs&theme=light" alt="My Skills">
       </div>
-      <h2>Platforms & Languages</h2>
+      <h2>Dev Tools & DevOps</h2>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/intellij.png" alt="intellij" height="50px"/>
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
-          <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>    
+         <img src="https://skillicons.dev/icons?i=idea,vscode,docker,maven,gradle&theme=light" alt="My Skills">
+      </div>
+      <h2>Databases</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+         <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" alt="My Skills">
+      </div>
+      <h2>Version Control / Collaboration</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+         <img src="https://skillicons.dev/icons?i=github,gitlab,notion&theme=light" alt="My Skills">
       </div>
 </div>  
 
