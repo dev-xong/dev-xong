@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-      <h3>Xongyuna</h3>
 <p align="center">
   <span>👩🏻‍💻 Web Developer</span> |
   <span>📍 Busan, South Korea</span> |
