@@ -30,13 +30,10 @@
 </div>  
 
 <div align="left">
-      <h2>Statistics</h2>
-      <div align="left" style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=dev-xong&show_icons=true&bg_color=00000000" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xong&layout=compact&color=00000000" />
-    </div>
-    <div align="left">
-      <a href="https://solved.ac/dev_xong"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=dev_xong" /></a>
-    </div>
+  <h2>Statistics</h2>
+  <div align="left" style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xong&layout=compact&color=00000000" />
+    <a href="https://solved.ac/dev_xong"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=dev_xong" /></a>
 </div>
+
 
