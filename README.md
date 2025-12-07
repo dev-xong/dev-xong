@@ -29,10 +29,9 @@
       </div>
 </div>  
 
-<div align="left">
+<div align="center">
   <h2>Statistics</h2>
-  <div align="left" style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xong&layout=compact&color=00000000" />
+  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://solved.ac/dev_xong"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=dev_xong" /></a>
 </div>
 
