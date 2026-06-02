@@ -11,6 +11,10 @@
 </div>
 
 <div align="center">
+      <h2>Career</h2>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+          <a href="https://dev-xong.github.io" target="_blank">🔗 dev-xong.github.io</a>
+      </div>
       <h2>Main Skills & Frameworks / Runtime</h2>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
           <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs&theme=light" alt="My Skills">
