@@ -35,8 +35,10 @@
 
 <div align="center">
   <h2>Statistics</h2>
-  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://solved.ac/dev_xong"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=dev_xong" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dev-xong&theme=transparent&short_numbers=true&mode=weekly" alt="GitHub Streak" height="200" align="top" /></a>
+  &nbsp;&nbsp;
+  <a href="https://solved.ac/dev_xong"><img src="http://mazassumnida.wtf/api/generate_badge?boj=dev_xong" height="200" align="top" /></a>
 </div>
+
 
 
