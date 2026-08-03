@@ -22,7 +22,7 @@
       <h2>Open Source</h2>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
          <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" width="48" height="48" />
-         <p>🔗 <a href="https://github.com/apache/airflow/pull/70764">Contributed Korean (i18n) translations</a> </p>
+         <p>🔗 <a href="https://github.com/apache/airflow/pull/70764">Contributed Korean (i18n) translations to Apache Airflow</a></p>
       </div>
       <h2>Dev Tools & DevOps</h2>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
